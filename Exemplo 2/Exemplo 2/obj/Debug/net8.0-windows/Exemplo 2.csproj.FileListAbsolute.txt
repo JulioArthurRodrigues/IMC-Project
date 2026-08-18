@@ -1,0 +1,16 @@
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\bin\Debug\net8.0-windows\Exemplo 2.exe
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\bin\Debug\net8.0-windows\Exemplo 2.deps.json
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\bin\Debug\net8.0-windows\Exemplo 2.runtimeconfig.json
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\bin\Debug\net8.0-windows\Exemplo 2.dll
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\bin\Debug\net8.0-windows\Exemplo 2.pdb
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\Exemplo_2.Form1.resources
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\Exemplo 2.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\Exemplo 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\Exemplo 2.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\Exemplo 2.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\Exemplo 2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\Exemplo 2.dll
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\refint\Exemplo 2.dll
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\Exemplo 2.pdb
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\Exemplo 2.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Juliao Projects\Exemplo 2\Exemplo 2\obj\Debug\net8.0-windows\ref\Exemplo 2.dll
